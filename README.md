@@ -10,7 +10,7 @@
   + Bayes_id/emotion.py，SVM_valabel.py，MLP_id/emotion/valabel.py，DT_id.py 是具体调用分类器模块进行训练和评估的模块
   + 评估结果存储在每个数据集对应的文件夹下，比如 Bayes_id.py 在 DEAP 数据集上的预测，存储在 data/DEAP/NB/目录下
 
-<font color=orange size=5px>本实验报告较长，请配合 PDF 或 Markdown 左侧大纲栏食用! </font>
+<font color=orange size=5px>本实验报告较长，请配合 PDF 或 Markdown 左侧大纲栏食用! （图片见PDF!）</font>
 
 ## 实验环境
 
