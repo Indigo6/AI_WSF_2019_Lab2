@@ -1,4 +1,4 @@
-# 人工智能基础 Lab2 实验报告
+# 人工智能基础 Lab2 实验报告（图片/公式见PDF!）
 
 + 因为个人觉得自己对 SVM 和 Bayes 的原理一知半解，所以手动实现了这两个分类器。而对于 MLP 用得学得比较多，就直接掉包了。
 + 因为本次实验不要求调参（数据集划分、特征舍取等），所以主要的时间花在了理解和实现分类器上，没有花太多的时间在分析结果上。本报告只在以下两处进行了结果分析
@@ -10,7 +10,7 @@
   + Bayes_id/emotion.py，SVM_valabel.py，MLP_id/emotion/valabel.py，DT_id.py 是具体调用分类器模块进行训练和评估的模块
   + 评估结果存储在每个数据集对应的文件夹下，比如 Bayes_id.py 在 DEAP 数据集上的预测，存储在 data/DEAP/NB/目录下
 
-<font color=orange size=5px>本实验报告较长，请配合 PDF 或 Markdown 左侧大纲栏食用! （图片见PDF!）</font>
+<font color=orange size=5px>本实验报告较长，请配合 PDF 或 Markdown 左侧大纲栏食用! </font>
 
 ## 实验环境
 
